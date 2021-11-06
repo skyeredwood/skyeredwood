@@ -10,10 +10,10 @@
 - Python (ish)
 
 #### Right now:
-- 🔭 I’m currently working on CabochonEngine
+- 🔭 I’m currently working on a LastLife plugin and the core engine for GemstoneMC
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on basically anything, especially JS-related!
-- 🤔 I’m looking for help with **learning how the fuck spigot works**
+- 🤔 I’m looking for help with **learning how the fuck BungeeCord works**
 - 💬 Ask me about Discord development with JavaScript, Spigot plugins or React/Next JS frontend stuff.
 - 📫 How to reach me: hanatic#2958 on Discord
 - 😄 Pronouns: she/they/xe or basically anything except he/him
