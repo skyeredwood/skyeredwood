@@ -26,4 +26,6 @@
 - I play video games (usually Minecraft, Mini Motorways or Cities: Skylines)
 - I do a bit of editing, but not much as I don't have the right equipment
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanatic)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanatic)](https://github.com/anuraghazra/github-readme-stats)
