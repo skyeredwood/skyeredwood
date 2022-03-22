@@ -5,7 +5,7 @@
 📋 I'm currently learning **NMS with the Spigot API**.<br>
 🌍 Outside of programming, I do **pixel art and I play the guitar, bass and piano**.<br>
 
-🤖 Contact me on Discord! `hanatic#2290`
+🤖 Contact me on Discord! I'm open to working on project so hit me up with details. `hanatic#2290`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanatic)](https://github.com/anuraghazra/github-readme-stats)
 
