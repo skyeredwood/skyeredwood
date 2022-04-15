@@ -7,6 +7,6 @@
 
 🤖 Contact me on Discord! I'm open to working on project so hit me up with details. `hanatic#2290`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanatic)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanatic)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanatic)](https://github.com/anuraghazra/github-readme-stats)
