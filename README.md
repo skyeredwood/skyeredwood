@@ -1,4 +1,4 @@
-## Hiya, I'm Abby, aka `Abs` for shit
+## Hiya, I'm Abby, aka `Abs` for short :D
 
 📜 I'm currently working at **@Planetry**.<br>
 🏛️ I'm experienced with **Java, TypeScript and JavaScript**.<br>
