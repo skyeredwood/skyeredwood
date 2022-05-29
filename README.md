@@ -1,4 +1,4 @@
-## Hiya, I'm Abby, aka `Abs` for short :D
+### Hiya, I'm Abby, and I break other people's code at 2am then get yelled at by the project's maintainers 💅
 
 📜 I'm currently working at **@Planetry**.<br>
 🏛️ I'm experienced with **Java, TypeScript and JavaScript**.<br>
