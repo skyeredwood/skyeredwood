@@ -1,5 +1,4 @@
-### 🌸 hey, i'm skylar (skye for short)
-
-💡 i'm a developer and pixel artist who works primarily with **C#** and **Java/Kotlin** (i am also experienced with NodeJS and Python) <br />
-🌍 i've developed for and/or managed **20+ major Minecraft and Discord communities**, and built hundreds of web apps including **a custom streaming service** <br />
-📖 in my spare time, i'm studying **sound engineering for theatre** and **music production** (as i play guitar, piano and bass), and **writing my own programming language**... <br />
+## 🌸 Hello, I'm Skye!
+💡 I'm a full stack developer & pixel artist who's done just about everything - proficient in Java, Kotlin, C#, JavaScript/TypeScript and more. Most of my work is based around **Minecraft**. <br />
+🌍 I work most commonly with bumpyEvents, but previous roles have included BlockWars, EVNTGames/MoonrockLabs, Tiny Embers and more. In these roles I've worked with clients like **Mountain Dew**, **Princess Cruises** and **Twitch Rivals**. <br />
+📖 In my spare time, I write and record music. I'm also training to be a theatre sound technician, and love exploring programming language design as a hobby! <br />
