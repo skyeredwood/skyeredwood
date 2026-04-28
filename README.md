@@ -1,4 +1,10 @@
-## 🌸 Hello, I'm Skye (aka skye_exe or skylarexe)!
-- I'm a full stack developer & pixel artist with 4+ years of experience - proficient in Java, Kotlin, C#, JavaScript/TypeScript and more. Most of my work is based around **Minecraft** but I've worked heavily with other frameworks including **Svelte** and **NextJS** on the web. <br />
-- I work most commonly with bumpyEvents, but previous roles have included BlockWars, EVNTGames/MoonrockLabs, Tiny Embers and more. In these roles I've worked with clients like **Mountain Dew**, **Princess Cruises** and **Twitch Rivals**. <br />
-- In my spare time, I write and record music. I'm also training to be a theatre sound technician, and love exploring programming language design as a hobby! <br />
+### hello, i'm skye! 🎧
+i'm a full stack dev, pixel artist & sound designer who's been crafting silly wacky shit for over five years. across that time i've worked with clients including **Mountain Dew**, **Princess Cruises**, **Twitch Rivals**, **Evil Geniuses** and **BlockWars**.
+
+- 💻 proficient in Java, Kotlin, C#, JS/TS and more
+- 👾 lots of experience developing for Minecraft primarily (plugins, mods, you name it)
+- 📑 also extensive experience as a web developer (SvelteKit is my fave but I don't hate NextJS!)
+
+currently i am the Creative Lead for **bumpyEvents** & **Gridlock** (in association with Evil Geniuses), and was formerly the Resource Pack Manager for BlockWars, and a Technical Artist for EVNT/Moonrock. when i'm not doing this kinda thing, i'm a professional theatre technician, working in sound & stage for regional and national touring theatre shows! 
+
+**if you might be interested in working with me, shoot me a dm on twitter! i'm always on the lookout for something new ❤️**
